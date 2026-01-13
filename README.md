@@ -10,6 +10,9 @@
 | Test 7|  ~ te(elevation("cr",k=10), cell("mrf",k=50))  |  ~ te(elevation("cr",k=10), cell("mrf",k=50))   |  ~ 1   |
 | Test 8|  ~ te(elevation("cr",k=10), cell("mrf",k=50)) |  ~ te(elevation("cr",k=10), cell("mrf",k=50))   |  ~ te(elevation("cr",k=10), cell("mrf",k=50))  |
 
+
+Test 0 eXtremes GEV computation (independent)
+test 1 ->8 evgam
 Test 7 crashed
 
 test 3 running time ~ 5min (laptop)
