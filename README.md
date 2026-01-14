@@ -15,8 +15,6 @@ Test 0 eXtremes GEV computation (independent)
 
 test 1 ->8 evgam
 
-Test 7 crashed
-
 test 3 running time ~ 5min (laptop)
 
-test 8 running time ~ 5h (laptop)
+test 8 running time ~ 5h (laptop)/ 52min (linux)
